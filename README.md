@@ -1,3 +1,7 @@
+Big Data:
+
+Clustering & Analysis on Telecom users Data
+
 Introduction to the topic and data set
 Large information is the term used to depict the huge measure of information that web 
 clients make each second. A principal generator of enormous information is 
